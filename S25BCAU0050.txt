@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Krishna Gupta- Portfolio</title>
+</head>
+<body>
+  <h1>Krishna Gupta</h1>
+<img src="krishna-gupta.jpg" alt="krishna gupta" width="200" />
+  <p><i>Email:</i> krishna3025gupga@gmail.com</p>
+  <p><b>Contact:</b> ‪+91 9756883222‬</p>
+  <p>Location: Delhi, India</p>
+
+  <h2>Education</h2>
+  <ul>
+    <li><strong>Bachelor of Computer Applications (BCA)</strong> – Bennett University (Pursuing)</li>
+    <li><strong>Class 12th</strong> – ST. Fidelis School and College</li>
+  </ul>
+
+  <h2>Achievements</h2>
+  <ul>
+    <li>Successfully completed 12th ST. Fidelis School and College</li>
+    <li>Pursuing BCA degree with focus on software and technology</li>
+  </ul>
+
+  <h2>Interests</h2>
+  <ul>
+    <li>Web Development</li>
+    <li>App Development</li>
+  </ul>
+</body>
+</html>
